@@ -6,7 +6,7 @@
 ---
 
 ## About Me  
-I am a Quality Assurance Engineer with 2.11 years of experience in API testing, test automation, and quality validation for e-commerce platforms. My passion lies in automating tests and building reliable frameworks that reduce manual effort and improve product quality. I am continuously exploring innovative solutions in software quality and am a proud recipient of Cognizant’s Top Innovator Award in 2025.
+I am a Quality Assurance Engineer with 3+ years of experience in API testing, test automation, and quality validation for e-commerce platforms. My passion lies in automating tests and building reliable frameworks that reduce manual effort and improve product quality. I am continuously exploring innovative solutions in software quality and am a proud recipient of Cognizant’s Top Innovator Award in 2025.
 
 ---
 
